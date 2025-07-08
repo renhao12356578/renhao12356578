@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Hao Ren (任昊)</h1>
+  <h1>👋 Hi, I'm Hao Ren </h1>
   <h3>🎓 Computer Science Student at BUPT | 💻 Full-Stack Developer | 🚀 Tech Enthusiast</h3>
 </div>
 
