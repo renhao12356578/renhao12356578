@@ -81,17 +81,6 @@
 
 ---
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-  ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-  ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 [![Hao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renhao12356578&theme=react-dark)](https://github.com/renhao12356578)
